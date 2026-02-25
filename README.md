@@ -27,23 +27,6 @@ This is a **Hospital Management System** built with the **MERN stack** — **Mon
 - Mongoose (ORM)
 - JSON Web Tokens (JWT)
 
-## 📂 Project Structure
-
-/
-├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-├── frontend/
-│ ├── src/
-│ ├── public/
-│ ├── package.json
-├── .gitignore
-├── README.md
-
-
 ## 🔧 Prerequisites
 Before running locally, make sure you have installed:
 - **Node.js** (v14+)
